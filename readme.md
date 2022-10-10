@@ -1,0 +1,1 @@
+App em react native expo do cliente
